@@ -1,6 +1,8 @@
-public class HelloWorld {
-	public static void main(String[] args) {
-	System.out.println("Salut,LUME!!");
-	
-	}
+public class hw {
+
+    public static void main(String[] args) {
+        
+        System.out.println("Salut lume!");
+    }
+
 }
